@@ -1,0 +1,111 @@
+[
+    {
+        "username": "bruvgs",
+        "password": "1234",
+        "nome": "Bruno Vinicius",
+        "telefone": "31995764821",
+        "instagram": "@bruvgs",
+        "tipo": "estudante",
+        "respostas": {
+            "Pergunta 1": 5,
+            "Pergunta 2": 5,
+            "Pergunta 3": 5,
+            "Pergunta 4": 5,
+            "Pergunta 5": 5,
+            "Pergunta 6": 5,
+            "Pergunta 7": 5,
+            "Pergunta 8": 5,
+            "Pergunta 9": 5,
+            "Pergunta 10": 5,
+            "Pergunta 11": 5,
+            "Pergunta 12": 5,
+            "Pergunta 13": 5,
+            "Pergunta 14": 5,
+            "Pergunta 15": 5,
+            "Pergunta 16": 5,
+            "Pergunta 17": 5,
+            "Pergunta 18": 5,
+            "Pergunta 19": 5,
+            "Pergunta 20": 5,
+            "Pergunta 21": 5,
+            "Pergunta 22": 5,
+            "Pergunta 23": 5,
+            "Pergunta 24": 5,
+            "Pergunta 25": 5,
+            "Pergunta 26": 5,
+            "Pergunta 27": 5,
+            "Pergunta 28": 5,
+            "Pergunta 29": 5,
+            "Pergunta 30": 5
+        },
+        "personalidade": {
+            "Extroversão e Socialização": "Extrovertido",
+            "Organização e Responsabilidade": "Altamente Organizado",
+            "Tolerância e Flexibilidade": "Altamente Flexível",
+            "Hábitos Diários e Estilo de Vida": "Diurno e Estruturado",
+            "Preferências Pessoais": "Cooperativo",
+            "Conflitos e Resolução": "Resolutivo"
+        },
+        "perfil_final": "Líder Sociável"
+    },
+    {
+        "username": "repA",
+        "password": "repA123",
+        "nome": "Republica A",
+        "telefone": "40028922",
+        "instagram": "@repA",
+        "tipo": "republica",
+        "tipo_escolhido": "Tipo 1-",
+        "descricao_tipo": "Essa república é ideal para pessoas sociáveis..."
+    },
+    {
+        "username": "RepB",
+        "password": "repB123",
+        "nome": "Republica B",
+        "telefone": "40028922",
+        "instagram": "@repB",
+        "tipo": "republica",
+        "tipo_escolhido": "República Criativa e Livre",
+        "descricao_tipo": "Uma república tranquila e flexível..."
+    },
+    {
+        "username": "RepC",
+        "password": "repC123",
+        "nome": "Republica C",
+        "telefone": "40028922",
+        "instagram": "@repC",
+        "tipo": "republica",
+        "tipo_escolhido": "República Harmonia Flex",
+        "descricao_tipo": "Ambiente equilibrado entre social e privado..."
+    },
+    {
+        "username": "RepD",
+        "password": "repD123",
+        "nome": "Republica D",
+        "telefone": "40028922",
+        "instagram": "@repD",
+        "tipo": "republica",
+        "tipo_escolhido": "República Relax Noturna",
+        "descricao_tipo": "Ideal para quem prefere horários mais livres..."
+    },
+    {
+        "username": "RepE",
+        "password": "repE123",
+        "nome": "Republica E",
+        "telefone": "40028922",
+        "instagram": "@repE",
+        "tipo": "republica",
+        "tipo_escolhido": "República Equilíbrio e Paz",
+        "descricao_tipo": "Espaços bem organizados e focados em estudos..."
+    },
+    {
+        "username": "REPUBLICA CALANGO",
+        "password": "Calango*123",
+        "nome": "Pedro Calango",
+        "telefone": "31986553223",
+        "instagram": "@Pedro_msc",
+        "tipo": "republica",
+        "tipo_escolhido": "Tipo 3-",
+        "descricao_tipo": "Essa república é voltada para estudantes que gostam de equilibrar socialização e privacidade. A convivência é baseada em colaboração, com tarefas divididas de forma justa e flexível. Perfeita para quem quer um ambiente agradável e amigável, mas sem excessos em festas ou regras rígidas."
+    }
+]
