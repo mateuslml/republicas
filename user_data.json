@@ -2,7 +2,7 @@
     {
         "username": "bruvgs",
         "password": "1234",
-        "nome": "Bruno Vinicius",
+        "nome": "Bruno Silva",
         "telefone": "31995764821",
         "instagram": "@bruvgs",
         "tipo": "estudante",
@@ -49,63 +49,34 @@
         "perfil_final": "Líder Sociável"
     },
     {
+        "username": "Republica1",
+        "password": "123",
+        "nome": "Republica 1",
+        "telefone": "40028922",
+        "instagram": "@rep1",
+        "tipo": "republica",
+        "tipo_escolhido": "República Líder Social",
+        "descricao_tipo": "Essa república é ideal para pessoas sociáveis que gostam de ter a casa organizada e resolver problemas de forma prática e rápida. A casa valoriza eventos em grupo, como reuniões semanais, festas e estudos colaborativos. Os moradores preferem um ambiente animado, mas com regras claras para manter a convivência harmoniosa."
+    },
+    {
         "username": "repA",
-        "password": "repA123",
-        "nome": "Republica A",
+        "password": "1234",
+        "nome": "RepublicaA",
         "telefone": "40028922",
         "instagram": "@repA",
         "tipo": "republica",
-        "tipo_escolhido": "Tipo 1-",
-        "descricao_tipo": "Essa república é ideal para pessoas sociáveis..."
-    },
-    {
-        "username": "RepB",
-        "password": "repB123",
-        "nome": "Republica B",
-        "telefone": "40028922",
-        "instagram": "@repB",
-        "tipo": "republica",
-        "tipo_escolhido": "República Criativa e Livre",
-        "descricao_tipo": "Uma república tranquila e flexível..."
-    },
-    {
-        "username": "RepC",
-        "password": "repC123",
-        "nome": "Republica C",
-        "telefone": "40028922",
-        "instagram": "@repC",
-        "tipo": "republica",
-        "tipo_escolhido": "República Harmonia Flex",
-        "descricao_tipo": "Ambiente equilibrado entre social e privado..."
-    },
-    {
-        "username": "RepD",
-        "password": "repD123",
-        "nome": "Republica D",
-        "telefone": "40028922",
-        "instagram": "@repD",
-        "tipo": "republica",
-        "tipo_escolhido": "República Relax Noturna",
-        "descricao_tipo": "Ideal para quem prefere horários mais livres..."
-    },
-    {
-        "username": "RepE",
-        "password": "repE123",
-        "nome": "Republica E",
-        "telefone": "40028922",
-        "instagram": "@repE",
-        "tipo": "republica",
         "tipo_escolhido": "República Equilíbrio e Paz",
-        "descricao_tipo": "Espaços bem organizados e focados em estudos..."
+        "descricao_tipo": "Um ambiente reservado, com regras claras e espaços bem organizados. É a escolha ideal para quem prefere calma, silêncio e foco nos estudos. Conflitos são raros, pois os moradores respeitam as regras e buscam um convívio equilibrado."
     },
     {
-        "username": "REPUBLICA CALANGO",
-        "password": "Calango*123",
-        "nome": "Pedro Calango",
-        "telefone": "31986553223",
-        "instagram": "@Pedro_msc",
-        "tipo": "republica",
-        "tipo_escolhido": "Tipo 3-",
-        "descricao_tipo": "Essa república é voltada para estudantes que gostam de equilibrar socialização e privacidade. A convivência é baseada em colaboração, com tarefas divididas de forma justa e flexível. Perfeita para quem quer um ambiente agradável e amigável, mas sem excessos em festas ou regras rígidas."
+        "username": "Teste",
+        "password": "1234",
+        "nome": "Testador",
+        "telefone": "40028922",
+        "instagram": "@Tester",
+        "tipo": "estudante",
+        "respostas": {},
+        "personalidade": {},
+        "perfil_final": null
     }
 ]
