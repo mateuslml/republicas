@@ -142,9 +142,9 @@ Traços principais: Extrovertida + Espontânea + Noturna e Relaxada
 Descrição:Uma república ideal para pessoas descontraídas e que preferem horários flexíveis. Perfeita para quem gosta de estudar à noite, curtir música, jogar videogames ou até mesmo organizar encontros informais com amigos. Não é a melhor opção para quem gosta de muita ordem ou silêncio constante.
 Perfil típico de moradores: Extrovertido Descontraído, Flexível Harmonizador.
 
-Link para fluxogramas e diagrama UML: https://miro.com/welcomeonboard/dE9TaFNSVWtYZHBJb1RrVTJtWlRMUmxadHNTeHpkV0ZVK0VkMUhRUCtKaDFiT1pqclRRb2xEZXQ4VU54UmZvRVdhaFdwc3N2Tk04dFRFcTNJZjQveHpqWVlTSU1HRzYrdkVQL3B6TU9TTEJ2c2ZET2QyWTBZQVVucWYyZDh4MmUhZQ==?share_link_id=973605159828
 5. República Equilíbrio e Paz
 Traços principais: Introvertida + Altamente Organizada + Neutra
 Descrição:Um ambiente reservado, com regras claras e espaços bem organizados. É a escolha ideal para quem prefere calma, silêncio e foco nos estudos. Conflitos são raros, pois os moradores respeitam as regras e buscam um convívio equilibrado.
 Perfil típico de moradores: Organizado Pacifista, Introvertido Flexível.
 
+Link para fluxogramas e diagrama UML: https://miro.com/welcomeonboard/dE9TaFNSVWtYZHBJb1RrVTJtWlRMUmxadHNTeHpkV0ZVK0VkMUhRUCtKaDFiT1pqclRRb2xEZXQ4VU54UmZvRVdhaFdwc3N2Tk04dFRFcTNJZjQveHpqWVlTSU1HRzYrdkVQL3B6TU9TTEJ2c2ZET2QyWTBZQVVucWYyZDh4MmUhZQ==?share_link_id=973605159828
